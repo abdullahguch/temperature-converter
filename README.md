@@ -61,12 +61,12 @@ Enter your choice (1/2/3/4/5/6): 1
 Enter temperature in Celsius: 25
 25.0 Celsius = 77.0 Fahrenheit
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contributing
 
 Contributions are welcome! Please feel free to open issues or pull requests to suggest improvements or report bugs.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 Happy temperature converting!
