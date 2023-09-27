@@ -28,7 +28,7 @@ Follow these instructions to get started with the Temperature Converter:
 
 1. Clone this repository to your local machine:
 
->> git clone https://github.com/abdullahguch/temperature_converter.git
+>> git clone https://github.com/abdullahguch/temperature-converter.git
 
 2. Navigate to the project directory:
 
